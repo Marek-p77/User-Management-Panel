@@ -26,6 +26,10 @@ Dokončené  | Nedokončené
 ✔️Kreditový Systém  | 
 ✔️Ověření práv na bázi session |
 
+### ⚒️ Použití
+
+Stáhněte si soubory z GitHubu a dejte je do samostatné složky. Panel musí být na nějakém webhostingu. Pro hostování na vlastním PC doporučuji aplikaci XAMPP, nebo jednodušší způsob, webserver zabudovaný přímo v PHP, který lze spustit příkazem `php -S localhost:80` v složce projektu. Je třeba panel propojit se správně nastavenou MySQL databází (více info v souboru db.php ve složce includes), zde si také musíte vytvořit účet s admin právy.
+
   ## Ukázka Funkcí:
 ![](https://media.discordapp.net/attachments/865982224607871006/911981635065499668/GalaxyCode___Admin_Osobni_Microsoft_Edge_21.11.2021_15_06_18.png?width=873&height=473)
 ![](https://media.discordapp.net/attachments/865982224607871006/911981635535269938/GalaxyCode___Admin_Osobni_Microsoft_Edge_21.11.2021_15_06_45.png?width=873&height=473)
