@@ -1,5 +1,7 @@
 # 🔒 Basic PHP Login System [NEDOKONČENO]
+
 ### 📄 Popis
+
 Nedokončená verze velmi základního login systému s panelem a správou uživatelů. Funkce: přihlášení, registrace, ranky, kredity, správa uživatelů, přehled. Tento projekt nemám v plánu dokončovat, ale jelikož o něj byl velký zájem, tak vám ho dávám sem ke stažení :) Nedoporučuji ho ale používat na větších projektech z důvodu zabezpečení. 
 
 Pro správné fungování je nuté správně propojit panel s MySQL databází, jinak nebude nic fungovat! Pokud tedy nevíte jak na to, tak by jste se do tohoto neměli pouštět (více v souboru db.php ve složce includes).
