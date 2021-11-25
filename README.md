@@ -6,10 +6,6 @@ Nedokončená verze velmi základního login systému s panelem a správou uživ
 
 Pro správné fungování je nuté správně propojit panel s MySQL databází, jinak nebude nic fungovat! Pokud tedy nevíte jak na to, tak by jste se do tohoto neměli pouštět (více v souboru db.php ve složce includes).
 
-📺Video návod od GamesPanda#0087 zde: -> https://youtu.be/w2EfdnffreQ <-
-
-📞Discord podpora: -> https://dsc.gg/galaxycode <-
-
 💡TIP: Pokud se vám nelíbí vzhled panelu, je možné změnit pár věcí v souboru colors.php :)
 
                     
@@ -29,6 +25,10 @@ Dokončené  | Nedokončené
 ### ⚒️ Použití
 
 Stáhněte si soubory z GitHubu a dejte je do samostatné složky. Panel musí být na nějakém webhostingu. Pro hostování na vlastním PC doporučuji aplikaci XAMPP, nebo jednodušší způsob, webserver zabudovaný přímo v PHP, který lze spustit příkazem `php -S localhost:80` v složce projektu. Je třeba panel propojit se správně nastavenou MySQL databází (více info v souboru db.php ve složce includes), zde si také musíte vytvořit účet s admin právy.
+
+📺Video návod od GamesPanda#0087 zde: -> https://youtu.be/w2EfdnffreQ <-
+
+📞Discord podpora: -> https://dsc.gg/galaxycode <-
 
   ## Ukázka Funkcí:
 ![](https://media.discordapp.net/attachments/865982224607871006/911981635065499668/GalaxyCode___Admin_Osobni_Microsoft_Edge_21.11.2021_15_06_18.png?width=873&height=473)
