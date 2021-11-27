@@ -1,8 +1,8 @@
-<?php
+<?php // Made by Marek_p
 
 session_start();
-session_destroy();
+session_destroy(); // Odhlášení (zničení session)
 
-header("Location: ../auth/login.php");
+header("Location: ../auth/login.php"); // Přesměrování na login stránku
 
 ?>
