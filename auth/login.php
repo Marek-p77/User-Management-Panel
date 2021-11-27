@@ -4,7 +4,8 @@ if(isset($_POST["submit"])) {
 
     $form_username = $_POST["username"];
     $form_password = $_POST["password"];
-
+    
+    // Připojení k MySQL databázi (více v souboru db.php ve složce includes)
     $db_hostname = "x";
     $db_username = "x";
     $db_password = "x";
