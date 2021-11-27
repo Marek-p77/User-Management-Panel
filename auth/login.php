@@ -73,6 +73,6 @@ if(isset($_POST["submit"])) {
 
 </body>
 
-<?php include("../includes/colors.php") ?>
+<?php include("../includes/colors.php") // Importování souboru s nastavením barev ?>
 
 </html>
