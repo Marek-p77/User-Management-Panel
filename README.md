@@ -1,4 +1,5 @@
-# 🔒 Basic PHP Login System [NEDOKONČENO]
+# 🔒 User Management Panel [NEDOKONČENO]
+Poznámka: Starý název "Basic PHP Login System"
 
 ### 📄 Popis
 
